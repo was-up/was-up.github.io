@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vscode on WASUP</title>
+    <link>https://was-up.github.io/tags/vscode/</link>
+    <description>Recent content in vscode on WASUP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 13:10:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://was-up.github.io/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supporting Software Development through Live Metrics Visualization</title>
+      <link>https://was-up.github.io/posts/live_metrics/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/posts/live_metrics/</guid>
+      <description>Software systems are increasingly complex and extensive, making their understanding often difficult, costly and time-consuming. When we need to implement or change a feature in a system, it is often necessary to restructure it before changing it, doing refactoring, without modifying its external behaviors, improving not only its structure but also its comprehension and maintainability.
+Sometimes it is difficult to know the state or quality of a software system, while it is being programmed since there are not many tools that allow the analysis of metrics in real-time.</description>
+    </item>
+    
+    <item>
+      <title>Live Automatic Program Repair using Tests as Specifications</title>
+      <link>https://was-up.github.io/posts/live_apr/</link>
+      <pubDate>Thu, 31 Oct 2019 18:29:20 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/posts/live_apr/</guid>
+      <description>Most developers are familiar with real-time syntactic code suggestions, usually provided by code completion tools, but semantic suggestions are seldom automatic and rarely real-time. Automated Program Repair (APR) is an area of research focused on the automatic generation of bug-fixing patches. While current approaches display promising results, they also present some limitations, namely overfitted patches and the low maintainability of generated code. We propose a live approach to APR, implemented as a Visual Studio Code extension, which leverages unit tests as specifications, and generates code variations to repair bugs in JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

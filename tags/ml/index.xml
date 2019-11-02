@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml on WASUP</title>
+    <link>https://was-up.github.io/tags/ml/</link>
+    <description>Recent content in ml on WASUP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 01:16:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://was-up.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatically Generating Websites From Hand-Drawn Mockups</title>
+      <link>https://was-up.github.io/posts/mockups/</link>
+      <pubDate>Sat, 02 Nov 2019 01:16:41 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/posts/mockups/</guid>
+      <description>Designers often use physical hand-drawn mockups to convey their ideas to stakeholders. Unfortunately, these sketches do not depict the exact final look and feel of web pages and communication errors will often occur resulting in prototypes that do not reflect the stakeholder&amp;rsquo;s vision. Multiple suggestions exist to tackle this problem, mainly in the translation of visual mockups to prototypes. Some authors propose end-to-end solutions, where the final code is directly generated from a single (black-box) Deep Neural Network.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,91 @@
     <description>Recent content in Tags on WASUP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 02 Nov 2019 13:10:12 +0000</lastBuildDate>
     
 	<atom:link href="https://was-up.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>live</title>
+      <link>https://was-up.github.io/tags/live/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metrics</title>
+      <link>https://was-up.github.io/tags/metrics/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugin</title>
+      <link>https://was-up.github.io/tags/plugin/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
+      <link>https://was-up.github.io/tags/visualization/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vscode</title>
+      <link>https://was-up.github.io/tags/vscode/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://was-up.github.io/tags/ml/</link>
+      <pubDate>Sat, 02 Nov 2019 01:16:41 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://was-up.github.io/tags/web/</link>
+      <pubDate>Sat, 02 Nov 2019 01:16:41 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apr</title>
+      <link>https://was-up.github.io/tags/apr/</link>
+      <pubDate>Thu, 31 Oct 2019 18:29:20 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/apr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://was-up.github.io/tags/testing/</link>
+      <pubDate>Thu, 31 Oct 2019 18:29:20 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -14,7 +14,43 @@
   </url>
   
   <url>
+    <loc>https://was-up.github.io/tags/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://was-up.github.io/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/live/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/metrics/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/plugin/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/visualization/</loc>
+    <lastmod>2019-11-02T13:10:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/vscode/</loc>
     <lastmod>2019-11-02T13:10:12+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -25,17 +61,36 @@
   </url>
   
   <url>
+    <loc>https://was-up.github.io/tags/ml/</loc>
+    <lastmod>2019-11-02T01:16:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/tags/web/</loc>
+    <lastmod>2019-11-02T01:16:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://was-up.github.io/posts/live_apr/</loc>
     <lastmod>2019-10-31T18:29:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://was-up.github.io/categories/</loc>
+    <loc>https://was-up.github.io/tags/apr/</loc>
+    <lastmod>2019-10-31T18:29:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://was-up.github.io/tags/</loc>
+    <loc>https://was-up.github.io/tags/testing/</loc>
+    <lastmod>2019-10-31T18:29:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://was-up.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
