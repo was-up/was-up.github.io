@@ -6,10 +6,20 @@
     <description>Recent content in Posts on WASUP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 01:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 13:10:12 +0000</lastBuildDate>
     
 	<atom:link href="https://was-up.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Supporting Software Development through Live Metrics Visualization</title>
+      <link>https://was-up.github.io/posts/live_metrics/</link>
+      <pubDate>Sat, 02 Nov 2019 13:10:12 +0000</pubDate>
+      
+      <guid>https://was-up.github.io/posts/live_metrics/</guid>
+      <description>Software systems are increasingly complex and extensive, making their understanding often difficult, costly and time-consuming. When we need to implement or change a feature in a system, it is often necessary to restructure it before changing it, doing refactoring, without modifying its external behaviors, improving not only its structure but also its comprehension and maintainability.
+Sometimes it is difficult to know the state or quality of a software system, while it is being programmed since there are not many tools that allow the analysis of metrics in real-time.</description>
+    </item>
     
     <item>
       <title>Automatically Generating Websites From Hand-Drawn Mockups</title>
